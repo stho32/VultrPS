@@ -1,0 +1,19 @@
+{
+  "name": "VultrPS",
+  "version": "0.0.1",
+  "description": "Powershell interface for the Vultr.com-API to create and manage cloud ressources",
+  "main": "index.js",
+  "authors": {
+    "name": "Stefan Hoffmann",
+    "email": "stho32github@gmail.com"
+  },
+  "repository": "https://github.com/naseif/VultrPS/VultrPS",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
